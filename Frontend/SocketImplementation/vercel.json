@@ -1,6 +1,0 @@
-{
-    "rewirtes":[{
-        "sources":"/(.*)",
-        "destination":"/index.html"
-    }]
-}
